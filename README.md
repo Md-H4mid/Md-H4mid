@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Md%20Hamid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Specialist%20%7C%20Full%20Stack%20Architect&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Md%20Hamid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20%26%20AI%20%7C%20Analytics%20Engineer&descAlignY=55&descSize=18"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+Scale;AI+%2F+ML+Engineer;Full+Stack+%2B+Cloud+Native+Systems;Building+Products+That+Matter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Data+Scientist+%40+Scale;Machine+Learning+%2F+Deep+Learning;Statistical+Modeling+%2B+Predictive+Analytics;Turning+Data+Into+Decisions" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/M.S._Computer_Science-4B0082?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/M.S._Data_Science-4B0082?style=flat-square&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/B.Tech_CSE-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Your_City,_Country-7C3AED?style=flat-square&logo=googlemaps&logoColor=white"/>
 
@@ -41,24 +41,41 @@
 
 ---
 
+## 🖥️ Terminal Identity
+
+<div align="center">
+
+<img src="https://readme-terminal-identity.vercel.app/api?username=Md-H4mid&theme=dark_dimmed" width="100%"/>
+
+</div>
+
+> If the widget above doesn't render, this service occasionally sleeps/cold-starts — refresh the page once loaded on GitHub. Alternative: self-host via [readme-terminal-identity](https://github.com/rahuletto/terminal-identity) and swap the URL.
+
+---
+
 ## 🧠 About Me
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ```yaml
 about_me:
-  role: "Data Sceintist"
-  focus: ["AI/ML Systems", "Distributed Backends"]
+  role: "Data Scientist"
+  focus: ["Machine Learning", "Statistical Modeling", "Data Engineering", "MLOps"]
+  experience: "X+ Years"
+  philosophy: >
+    I turn raw, messy data into reliable models and clear decisions —
+    combining statistical rigor with production-grade ML engineering
+    to build systems that actually ship and scale.
 ```
 
-I specialize in designing and shipping **high-scale distributed systems**, **AI-powered products**, . My Code approach blends deep technical rigor with a product-first mindset — I care as much about system architecture as I do about the end-user experience.
+I specialize in **exploratory data analysis**, **predictive modeling**, **deep learning**, and **end-to-end ML pipelines** — from data ingestion to model deployment. My approach blends strong statistical foundations with software engineering discipline, so models don't just perform well in a notebook — they perform well in production.
 
 **🎯 Open To:**
 
 <img src="https://img.shields.io/badge/Full--Time_Roles-6A0DAD?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%2FML_Engineering-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend_%2F_Platform-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open_Source_Collaboration-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Science_%2F_ML-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Research_Collaborations-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open_Source_Contributions-4B0082?style=flat-square"/>
 
 <br clear="right"/>
 
@@ -69,25 +86,46 @@ I specialize in designing and shipping **high-scale distributed systems**, **AI-
 **Languages**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,go,rust,c" />
+<img src="https://skillicons.dev/icons?i=python,r,cpp,java,js,go" />
 </p>
 
-**Frontend**
+**Data Science & ML**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,html,css,redux" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-2C3454?style=flat-square&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </p>
 
-**Backend & Databases**
+**Data Visualization**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql,postgres,mongodb,redis,mysql" />
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
+
+**Databases & Big Data**
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/>
 </p>
 
 **Cloud, DevOps & Tooling**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,nginx,git,linux,grafana" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,linux" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
 ---
@@ -98,12 +136,13 @@ I specialize in designing and shipping **high-scale distributed systems**, **AI-
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised/unsupervised learning, model evaluation, feature engineering |
-| **Deep Learning** | ⭐⭐⭐⭐⭐ | CNNs, RNNs, Transformers, PyTorch & TensorFlow production pipelines |
+| **Statistical Analysis** | ⭐⭐⭐⭐⭐ | Hypothesis testing, regression analysis, A/B testing, experimental design |
+| **Machine Learning** | ⭐⭐⭐⭐⭐ | Supervised/unsupervised learning, ensemble methods, feature engineering |
+| **Deep Learning** | ⭐⭐⭐⭐ | CNNs, RNNs, Transformers, PyTorch & TensorFlow production pipelines |
 | **NLP** | ⭐⭐⭐⭐ | Text classification, embeddings, LLM fine-tuning, RAG systems |
-| **LLM Engineering** | ⭐⭐⭐⭐⭐ | Prompt engineering, agentic workflows, LangChain, vector databases |
-| **MLOps** | ⭐⭐⭐⭐ | Model deployment, monitoring, CI/CD for ML, experiment tracking |
 | **Computer Vision** | ⭐⭐⭐ | Object detection, image segmentation, OpenCV pipelines |
+| **MLOps** | ⭐⭐⭐⭐ | Model deployment, monitoring, CI/CD for ML, experiment tracking (MLflow) |
+| **Data Engineering** | ⭐⭐⭐⭐ | ETL pipelines, Spark, data warehousing, pipeline orchestration |
 
 </div>
 
@@ -112,87 +151,91 @@ I specialize in designing and shipping **high-scale distributed systems**, **AI-
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔷 NeuralOps — AI-Powered Infrastructure Monitoring Platform</b></summary>
+<summary><b>🔷 ChurnPredict — Customer Churn Prediction Engine</b></summary>
 <br/>
 
-Real-time anomaly detection platform leveraging deep learning to predict infrastructure failures before they occur, processing millions of metrics daily across distributed systems.
+End-to-end ML pipeline predicting customer churn using ensemble models, deployed as a production API with real-time scoring and automated retraining.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python, PyTorch, FastAPI, Kafka, PostgreSQL, React, Docker, Kubernetes |
-| **Scale** | 50M+ metrics/day, 10K+ concurrent nodes monitored |
-| **Performance** | Sub-100ms inference latency, 99.95% uptime |
-| **Security** | OAuth2, RBAC, encrypted data pipelines, SOC2-aligned practices |
-| **Impact** | Reduced infrastructure incidents by 42%, saved 200+ engineering hours/month |
-| **Repository** | [github.com/Md-H4mid/neuralops](https://github.com/Md-H4mid/neuralops) |
+| **Stack** | Python, XGBoost, Scikit-learn, FastAPI, PostgreSQL, Docker, MLflow |
+| **Scale** | Trained on 2M+ customer records, scoring 100K+ predictions/day |
+| **Performance** | 91% F1-score, sub-50ms inference latency |
+| **Security** | API key auth, encrypted data storage, GDPR-aligned data handling |
+| **Impact** | Reduced customer churn by 18% through targeted retention campaigns |
+| **Repository** | [github.com/Md-H4mid/churnpredict](https://github.com/Md-H4mid/churnpredict) |
 
-This project involved architecting a distributed anomaly detection pipeline capable of ingesting high-throughput telemetry data, applying LSTM-based forecasting models, and triggering intelligent alerts with minimal false positives — significantly improving system reliability across production environments.
+Built a full ML lifecycle pipeline — from feature engineering and model selection to deployment and drift monitoring — enabling the business team to proactively identify at-risk customers.
 
 </details>
 
 <details>
-<summary><b>🔷 CommerceCore — Scalable E-Commerce Backend Platform</b></summary>
+<summary><b>🔷 SentimentIQ — Real-Time NLP Sentiment Analysis Platform</b></summary>
 <br/>
 
-Enterprise-grade microservices backend powering a multi-tenant e-commerce ecosystem with real-time inventory, payments, and order orchestration.
+Transformer-based sentiment analysis system processing social media and review data streams in real time for brand monitoring.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Go, Node.js, GraphQL, PostgreSQL, Redis, RabbitMQ, AWS |
-| **Scale** | 1M+ daily active users, 500K+ transactions/day |
-| **Performance** | P99 latency < 150ms, horizontally scalable to 20+ services |
-| **Security** | JWT auth, PCI-DSS compliant payment flow, rate limiting |
-| **Impact** | Enabled 3x business growth without infrastructure re-architecture |
-| **Repository** | [github.com/Md-H4mid/commercecore](https://github.com/Md-H4mid/commercecore) |
+| **Stack** | Python, Hugging Face Transformers, FastAPI, Kafka, Redis, React |
+| **Scale** | Processes 500K+ text records/day across multiple languages |
+| **Performance** | 94% classification accuracy, <200ms end-to-end latency |
+| **Security** | Data anonymization pipeline, rate-limited public API |
+| **Impact** | Enabled real-time brand sentiment tracking for marketing decisions |
+| **Repository** | [github.com/Md-H4mid/sentimentiq](https://github.com/Md-H4mid/sentimentiq) |
 
-Designed and implemented a resilient microservices architecture with event-driven communication, ensuring data consistency across distributed transactions while maintaining low-latency responses at scale.
+Fine-tuned transformer models on domain-specific data and built a streaming pipeline for real-time inference, giving stakeholders live dashboards of public sentiment trends.
 
 </details>
 
 <details>
-<summary><b>🔷 DevFlow AI — Intelligent Code Review Assistant</b></summary>
+<summary><b>🔷 VisionScan — Medical Image Classification System</b></summary>
 <br/>
 
-LLM-powered developer tool that automates code review, detects vulnerabilities, and suggests optimizations directly within CI/CD pipelines.
+Deep learning system for classifying medical scans, built with a focus on interpretability and clinical usability.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python, LangChain, OpenAI API, Next.js, PostgreSQL, GitHub Actions |
-| **Scale** | Integrated across 100+ repositories, 10K+ PRs analyzed |
-| **Performance** | Reduced average review time by 60% |
-| **Security** | Static analysis integration, secrets scanning, sandboxed execution |
-| **Impact** | Cut critical bug leakage to production by 35% |
-| **Repository** | [github.com/Md-H4mid/devflow-ai](https://github.com/Md-H4mid/devflow-ai) |
+| **Stack** | Python, PyTorch, OpenCV, Grad-CAM, Flask, PostgreSQL |
+| **Scale** | Trained on 50K+ labeled medical images |
+| **Performance** | 96% accuracy, AUC-ROC of 0.98 |
+| **Security** | HIPAA-aligned data handling, anonymized datasets |
+| **Impact** | Assisted in faster preliminary screening workflows |
+| **Repository** | [github.com/Md-H4mid/visionscan](https://github.com/Md-H4mid/visionscan) |
 
-Built an agentic pipeline combining static analysis tooling with LLM reasoning to deliver context-aware code review comments, seamlessly integrated into existing developer workflows.
+Designed a CNN-based classification pipeline with explainability layers (Grad-CAM) so predictions could be visually interpreted and trusted by end users.
 
 </details>
 
 ---
+
+## 💼 Experience
+
+**Data Scientist · Your Company Name**
 `Month Year — Present`
 
-Leading design and development of core platform services powering scalable products, with a strong emphasis on system reliability and AI integration.
+Leading development of predictive models and data pipelines that directly inform business strategy and product decisions.
 
-- Architected microservices handling high request volume with strong uptime
-- Led migration to event-driven microservices architecture
-- Built internal ML tooling reducing deployment time significantly
-- Collaborated across teams on system design best practices
+- Built and deployed ML models improving key business metrics
+- Designed ETL pipelines processing large-scale structured/unstructured data
+- Implemented A/B testing frameworks for data-driven decision making
+- Collaborated with engineering to productionize models via APIs
 
-`Python` `Go` `Kubernetes` `AWS` `PyTorch` `PostgreSQL`
+`Python` `Scikit-learn` `PyTorch` `SQL` `Spark` `AWS`
 
 <br/>
 
-**Software Engineer · Previous Company**
+**Data Analyst / Jr. Data Scientist · Previous Company**
 `Month Year — Month Year`
 
-Developed full stack features and backend services for a growing SaaS platform.
+Analyzed large datasets to generate actionable business insights and built early-stage predictive models.
 
-- Built RESTful and GraphQL APIs serving active user base
-- Implemented CI/CD pipelines reducing deployment time significantly
-- Optimized database queries, improving average response time
-- Collaborated cross-functionally with product and design teams
+- Built dashboards and reports used by leadership for decision-making
+- Developed statistical models to identify trends and anomalies
+- Automated recurring reporting pipelines, saving analyst hours weekly
+- Partnered with cross-functional teams to define key metrics
 
-`Node.js` `React` `MongoDB` `Docker` `GraphQL`
+`Python` `Pandas` `SQL` `Tableau` `Power BI`
 
 ---
 
@@ -202,10 +245,11 @@ Developed full stack features and backend services for a growing SaaS platform.
 
 | Recognition | Details |
 |---|---|
-| 🥇 **Top Performer Award** | Awarded for delivering high-impact platform reliability initiatives |
-| 📜 **Open Source Contributor** | Active contributions across major OSS repositories |
+| 🥇 **Top Performer Award** | Recognized for high-impact predictive modeling initiatives |
+| 🏅 **Kaggle Competition — Top 5%** | Ranked in top 5% in a competitive ML challenge |
+| 📜 **Open Source Contributor** | Active contributions to ML/data science repositories |
 | 🎓 **Academic Excellence** | Recognized for consistent academic performance |
-| ⭐ **GitHub Stars** | Across personal open-source projects and tools |
+| 📊 **Published Research** | Co-authored paper on applied machine learning methods |
 
 </div>
 
@@ -216,27 +260,27 @@ Developed full stack features and backend services for a growing SaaS platform.
 **AWS**
 
 <p align="left">
-<img src="https://img.shields.io/badge/AWS_Certified_Solutions_Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Certified_Developer-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Certified_Machine_Learning-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Certified_Data_Analytics-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 **Oracle**
 
 <p align="left">
-<img src="https://img.shields.io/badge/Oracle_Certified_Java_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_Certified_Data_Science_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 **NPTEL**
 
 <p align="left">
 <img src="https://img.shields.io/badge/NPTEL_Machine_Learning-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPTEL_Data_Structures-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL_Deep_Learning-8A2BE2?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </p>
 
 **Cisco**
 
 <p align="left">
-<img src="https://img.shields.io/badge/Cisco_Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco_Data_Science_Fundamentals-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ---
@@ -248,14 +292,14 @@ Developed full stack features and backend services for a growing SaaS platform.
 <a href="https://leetcode.com/Md-H4mid" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-6A0DAD?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+<a href="https://www.kaggle.com/Md-H4mid" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
 <a href="https://geeksforgeeks.org/user/Md-H4mid" target="_blank">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 <a href="https://hackerrank.com/Md-H4mid" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-<a href="https://codechef.com/users/Md-H4mid" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
@@ -312,18 +356,18 @@ Developed full stack features and backend services for a growing SaaS platform.
 ```yaml
 current_focus:
   learning:
-    - "Advanced LLM Agent Architectures"
-    - "Distributed Systems at Scale"
-    - "Rust for Systems Programming"
+    - "Advanced Deep Learning Architectures"
+    - "Causal Inference & Experimental Design"
+    - "Large-Scale Distributed Data Processing"
   building:
-    - "Open-source AI developer tooling"
-    - "Scalable backend infrastructure templates"
+    - "End-to-end MLOps pipelines"
+    - "Open-source ML utility libraries"
   exploring:
-    - "Vector databases & retrieval-augmented generation"
-    - "Edge computing for ML inference"
+    - "LLM-powered data analysis agents"
+    - "Time series forecasting at scale"
   open_to:
-    - "Software Engineering roles"
-    - "AI/ML platform collaborations"
+    - "Data Scientist / ML Engineer roles"
+    - "Research collaborations"
     - "Open source contributions"
 ```
 
@@ -352,7 +396,7 @@ current_focus:
 
 <div align="center">
 
-*"Code is the closest thing we have to magic — write it with purpose."*
+*"In data we trust — but only after we clean it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
