@@ -1,19 +1,3 @@
-
-
-Md-H4mid@github: ~$ ./wordmark.sh --name
-<pre style="display: inline-block; width: max-content; white-space: pre;">
- __  __     _        _    _ _  _             _     _ 
-|  \/  |   | |      | |  | | || |           (_)   | |
-| \  / | __| |______| |__| | || |_ _ __ ___  _  __| |
-| |\/| |/ _` |______|  __  |__   _| '_ ` _ \| |/ _` |
-| |  | | (_| |      | |  | |  | | | | | | | | | (_| |
-|_|  |_|\__,_|      |_|  |_|  |_| |_| |_| |_|_|\__,_|
- </pre>
-
-Md-H4mid@github: ~$ ./contributions.sh
-
-Data Scientist · Machine Learning · Open Source
-$ 5,891 contributions in the last year
 ## 🖥️ Terminal Identity
 
 ```
@@ -48,8 +32,12 @@ Md-H4mid@github: ~$ ./portrait.sh
 
 
 Md-H4mid@github: ~$ ./wordmark.sh --name
-
-
+  __  __     _        _    _ _  _             _     _ 
+|  \/  |   | |      | |  | | || |           (_)   | |
+| \  / | __| |______| |__| | || |_ _ __ ___  _  __| |
+| |\/| |/ _` |______|  __  |__   _| '_ ` _ \| |/ _` |
+| |  | | (_| |      | |  | |  | | | | | | | | | (_| |
+|_|  |_|\__,_|      |_|  |_|  |_| |_| |_| |_|_|\__,_|
 
 Md-H4mid@github: ~$ ./contributions.sh
 
